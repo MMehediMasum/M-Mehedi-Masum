@@ -35,7 +35,7 @@ export const site = {
   url: 'https://mmehedimasum.com',
   author: {
     name: 'M Mehedi Masum',
-    email: 'hello@example.com',
+    email: 'iammehedimasum@gmail.com',
     location: 'Dhaka, Bangladesh',
     /** Optional: link to a PDF résumé served from /public */
     resume: '/resume/Resume.pdf',
