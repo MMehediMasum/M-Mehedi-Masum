@@ -30,7 +30,7 @@ export const site = {
   shortTitle: 'mmehedimasum',
   /** Default meta description for pages that don't set their own */
   description:
-    'Software engineer and occasional traveler — writing about code and sharing photos from the road.',
+    'Digital Marketer, Software engineer and occasional traveler — writing about code and sharing photos from the road.',
   /** Your production URL — no trailing slash. Used for canonical URLs, OG tags, RSS and sitemap */
   url: 'https://mmehedimasum.com',
   author: {
