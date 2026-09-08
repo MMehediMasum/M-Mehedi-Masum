@@ -7,7 +7,7 @@ category: tech
 description: A quick tour of everything to edit in this Astro theme — site config, blog posts, the work page, and travel galleries.
 ---
 
-If you can see this post, the theme is working. Everything below lives under `src/` and takes plain markdown or one small TypeScript file each.
+Hello, if you can see this post, the theme is working. Everything below lives under `src/` and takes plain markdown or one small TypeScript file each.
 
 ## 1. Make it yours
 
